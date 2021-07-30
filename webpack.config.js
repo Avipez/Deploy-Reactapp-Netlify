@@ -20,7 +20,7 @@ module.exports = {
             "@styles": path.resolve(__dirname, "src/styles/")
         }
     },
-    mode: production,
+    mode: "production",
     module: {
         rules: [
             {
